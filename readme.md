@@ -7,7 +7,7 @@ php  and laravel version
     Laravel Framework 5.4.17
 
 Installation
-    $git clone https://github.com/bestmomo/laravel5-example.git projectname
+    $git clone  https://github.com/sunil16/Base64ToImage.git projectname
     $cd projectname
     $composer install
     Create a database and inform .env
