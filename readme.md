@@ -5,6 +5,9 @@ Things you may want to cover:
 * php  and laravel version<br/>
     PHP 7.0.15<br/>
     Laravel Framework 5.4.17</br>
+    
+* Create two Folder inside public folder (1)"uploads" inside uploads folder Create new Folder (2)"images"<br/>
+
 
 * Installation<br/>
     $git clone  https://github.com/sunil16/Base64ToImage.git projectname</br>
